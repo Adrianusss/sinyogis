@@ -1,0 +1,1 @@
+var json_RumahAdrianus_8 = {"type":"FeatureCollection","name":"RumahAdrianus_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Rumah Adrianus"},"geometry":{"type":"Point","coordinates":[109.460485398007606,-7.454858871296489]}}]}
